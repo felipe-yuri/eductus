@@ -23,14 +23,14 @@
  */
 
 $string['about'] = 'Sobre';
-$string['aboutus'] = 'About Us';
+$string['aboutus'] = 'Sobre nós';
 $string['address'] = 'Endereço';
 $string['calendar'] = 'Calendário';
 
 $string['choosereadme'] = '<div class="clearfix"><div class="theme_screenshot"><img class=img-polaroid src="klass/pix/screenshot.jpg" /><br/><p></p><h3>Theme Credits</h3><p><h3>Moodle Klass theme</h3><p>This theme is based on the Boost Moodle theme.</p><p>Authors: LMSACE Dev Team<br>Contact: info@lmsace.com<br>Website: <a href="http://www.lmsace.com">www.lmsace.com</a><br></p>';
 
 $string['configtitle'] = 'Klass';
-$string['connectus'] = 'Connect with us';
+$string['connectus'] = 'Conecte conosco';
 $string['contact'] = 'Contato';
 $string['copyright_footer'] = 'Copyright';
 $string['copyright_default'] = 'Copyright &copy; 2017 - Developed by <a href="http://lmsace.com">LMSACE.com</a>. Powered by <a href="https://moodle.org">Moodle</a>';
@@ -42,7 +42,7 @@ $string['defaultphoneno'] = '(000) 123-456';
 $string['emailid'] = 'Email';
 $string['fburl'] = 'Facebook';
 $string['fburl_default'] = 'https://www.facebook.com/yourfacebookid';
-$string['fburldesc'] = 'The Facebook url of your organisation.';
+$string['fburldesc'] = 'Url do perfil do facebook da sua empresa.';
 $string['fcourses'] = 'Featured Courses';
 $string['fcoursesdesc'] = 'Please Choose the Featured Courses';
 $string['featuredcoursesheading'] = 'Featured Courses';
@@ -98,11 +98,11 @@ $string['numberoftmonials_desc'] = 'Number of Testimonials on the Home Page.';
 $string['phoneno'] = 'Phone No';
 $string['pinurl'] = 'Pinterest';
 $string['pinurl_default'] = 'https://pinterest.com/yourpinterestname/';
-$string['pinurldesc'] = 'The Pinterest url of your organisation.';
+$string['pinurldesc'] = 'Url do Pinterest da sua organização.';
 $string['pluginname'] = 'Klass';
-$string['readmore'] = 'Read More';
-$string['region-side-post'] = 'Right';
-$string['region-side-pre'] = 'Left';
+$string['readmore'] = 'Leia Mais';
+$string['region-side-post'] = 'Direita';
+$string['region-side-pre'] = 'Esquerda';
 $string['knowmore'] = 'Saber Mais';
 $string['sb1_default_cnt'] = '<p>Lorem Ipsum is simply dummy text of <br class="visible-lg">the printing and typesetting industry.</p>';
 $string['sb1_default_title'] = 'Learn Online Courses';
@@ -112,7 +112,7 @@ $string['sb3_default_cnt'] = '<p>Lorem Ipsum is simply dummy text of <br class="
 $string['sb3_default_title'] = 'Enroll Courses';
 $string['sb4_default_cnt'] = '<p>Lorem Ipsum is simply dummy text of <br class="visible-lg">the printing and typesetting industry.</p>';
 $string['sb4_default_title'] = 'Earn Money';
-$string['signup'] = 'Sign up';
+$string['signup'] = 'Entrar';
 $string['sitefblock1'] = 'Site Feature First Block';
 $string['sitefblock2'] = 'Site Feature Second Block';
 $string['sitefblock3'] = 'Site Feature Third Block';
@@ -177,7 +177,8 @@ $string['whowearedesc'] = '';
 $string['whowearedefault'] = '<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and tronic typesetting, sheets taining Lorem Ipsum passages.<br><a href="#">Read More &raquo;</a></p>';
 
 $string['readmore'] = "ReadMore";
-$string['contact_us'] = "Contact us";
+
+$string['contact_us'] = "Contacte-nos";
 $string['info'] = "Info";
 $string['phone'] = "Phone";
 $string['email'] = "E-mail";
