@@ -31,7 +31,7 @@ $string['choosereadme'] = '<div class="clearfix"><div class="theme_screenshot"><
 
 $string['configtitle'] = 'Klass';
 $string['connectus'] = 'Conecte conosco';
-$string['contact'] = 'Contato';
+$string['contact'] = 'Contatos';
 $string['copyright_footer'] = 'Copyright';
 $string['copyright_default'] = 'Copyright &copy; 2017 - Developed by <a href="http://lmsace.com">LMSACE.com</a>. Powered by <a href="https://moodle.org">Moodle</a>';
 $string['customcss'] = 'Custom CSS';
@@ -171,8 +171,8 @@ $string['twurl'] = 'Twitter';
 $string['twurl_default'] = 'https://twitter.com/yourtwittername';
 $string['twurldesc'] = 'The Twitter url of your organisation.';
 $string['whoweare_title'] = 'Title';
-$string['whoweare_title_default'] = 'Who we are';
-$string['whoweare_description'] = 'Description';
+$string['whoweare_title_default'] = 'Quem somos';
+$string['whoweare_description'] = 'Descrição';
 $string['whowearedesc'] = '';
 $string['whowearedefault'] = '<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and tronic typesetting, sheets taining Lorem Ipsum passages.<br><a href="#">Read More &raquo;</a></p>';
 

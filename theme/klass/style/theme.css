@@ -600,13 +600,13 @@ h6 {
     background: #993399;
 }
 .header-main .header-main-content {
-    background: #993399;
+    background: #fff;
 }
 .header-main .header-main-content .navbar-toggleable-md {
     padding-bottom: 10px;
 }
 .header-main .header-main-content .navbar-toggleable-md .infoarea a.nav-link {
-    color: #fff;
+    color: #993399;
 }
 .header-main .header-main-content .navbar-toggleable-md .infoarea a.nav-link:hover {
     color: #993399;
