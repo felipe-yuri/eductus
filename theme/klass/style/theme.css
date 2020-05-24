@@ -28,7 +28,7 @@ h6 {
     outline: none;
 }
 a {
-    color: #009fe5;
+    color: #993399;
 }
 a:hover {
     color: #c02424;
@@ -93,7 +93,7 @@ h6 {
     color: #fff;
 }
 #header .popover-region .popover-region-container i.icon:before {
-    color: #009fe5;
+    color: #993399;
 }
 #header .usermenu {
     float: right;
@@ -191,7 +191,7 @@ h6 {
 #header .menubar .dropdown-menu a:hover,
 #header .menubar .dropdown-menu a:focus {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 #header .menubar .dropdown-menu a:focus i.icon {
     color: #fff;
@@ -209,7 +209,7 @@ h6 {
 .header-main-menubar .dropdown-menu a:hover,
 .header-main-menubar .dropdown-menu a:focus {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .dir-rtl .header-main .header-main-content .top-search {
     padding: 0 0 0 38px;
@@ -552,7 +552,7 @@ h6 {
     border: 1px solid #f1f1f1;
 }
 .header-main .navbar .navbar-inner .nav-item .dropdown-menu a {
-    color: #009fe5;
+    color: #993399;
     border-bottom: 1px solid #e6e6e6;
     background: #fff;
     white-space: normal;
@@ -564,7 +564,7 @@ h6 {
 }
 .header-main .navbar .navbar-inner .nav-item .dropdown-menu a:hover {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .header-main .navbar .navbar-inner .navbar-toggleable-md a.nav-link {
     color: #fff;
@@ -572,7 +572,7 @@ h6 {
 }
 .header-main .navbar .navbar-inner .navbar-toggleable-md a.nav-link:hover,
 .header-main .navbar .navbar-inner .navbar-toggleable-md a.nav-link:focus {
-    color: #009fe5;
+    color: #993399;
     background: #fff;
 }
 .header-main .navbar .navbar-inner button.navbar-toggler {
@@ -597,10 +597,10 @@ h6 {
 .header-main .navbar .navbar-inner a.nav-link:hover,
 .header-main .navbar .navbar-inner a.nav-link:focus {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .header-main .header-main-content {
-    background: #009fe5;
+    background: #993399;
 }
 .header-main .header-main-content .navbar-toggleable-md {
     padding-bottom: 10px;
@@ -609,7 +609,7 @@ h6 {
     color: #fff;
 }
 .header-main .header-main-content .navbar-toggleable-md .infoarea a.nav-link:hover {
-    color: #009fe5;
+    color: #993399;
     background: #fff;
 }
 .header-main .header-main-content .top-search {
@@ -662,7 +662,7 @@ h6 {
 }
 .header-main .header-main-menubar .navbar-toggler:hover,
 .header-main .header-main-menubar .navbar-toggler:focus {
-    background: #009fe5;
+    background: #993399;
 }
 .header-main .header-main-menubar .navbar-toggler:hover:before,
 .header-main .header-main-menubar .navbar-toggler:focus:before {
@@ -752,7 +752,7 @@ h6 {
 }
 .navbar .nav > li > a:hover {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .navbar .nav > li > .dropdown-menu::before,
 .navbar .nav > li > .dropdown-menu::after {
@@ -760,11 +760,11 @@ h6 {
 }
 .navbar .nav li.dropdown.open > .dropdown-toggle {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .navbar .nav li.dropdown.open.active > .dropdown-toggle {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .navbar .nav li.dropdown > .dropdown-toggle {
     padding-right: 25px;
@@ -779,7 +779,7 @@ h6 {
 }
 .navbar .nav li.dropdown.active > .dropdown-toggle {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .navbar .btn-navbar {
     background: none;
@@ -803,7 +803,7 @@ h6 {
 .navbar .btn-navbar:focus,
 .navbar .btn-navbar:active,
 .navbar .btn-navbar.active{
-    background: #009fe5;
+    background: #993399;
 }
 
 .navbar .btn-navbar:hover .icon-bar,
@@ -836,7 +836,7 @@ h6 {
 .dropdown-menu > li > a:active,
 .dropdown-menu > li > a.active {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .dropdown-submenu > a::after {
     font-family: FontAwesome;
@@ -851,7 +851,7 @@ h6 {
 .dropdown-submenu:hover > a,
 .dropdown-submenu:focus > a {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 
 @media (min-width: 1200px) {
@@ -937,12 +937,12 @@ h6 {
     .nav-collapse .dropdown-menu a:hover,
     .nav-collapse .dropdown-menu a:focus {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .nav-collapse .dropdown-menu > li > a:hover,
     .nav-collapse .dropdown-menu > li > a:focus {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .nav-collapse .nav > li > a {
         font-weight: normal;
@@ -951,13 +951,13 @@ h6 {
     .nav-collapse .nav > li > a:hover,
     .nav-collapse .nav > li > a:focus {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .nav-collapse .dropdown-submenu a:focus,
     .nav-collapse .dropdown-submenu a:hover,
     .nav-collapse .dropdown-submenu a:active {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .header-main .navbar .navbar-inner .nav-item .dropdown-menu a {
         border: 0;
@@ -991,11 +991,11 @@ h6 {
     }
     .navbar .nav-collapse.active .nav .dropdown-submenu.open > a {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .navbar .nav-collapse.active .nav .dropdown-submenu:hover.open > a {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .navbar .nav-collapse.active .nav .dropdown-submenu .dropdown-toggle:after {
         font-family: FontAwesome;
@@ -1006,11 +1006,11 @@ h6 {
     }
     .navbar .nav-collapse.active .nav .dropdown-menu .dropdown-submenu.open > a {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .navbar .nav-collapse.active .nav .dropdown-menu .dropdown-submenu:hover.open > a {
         color: #fff;
-        background: #009fe5;
+        background: #993399;
     }
     .navbar .nav-collapse.active .nav .dropdown-menu .dropdown-submenu .dropdown-toggle:after {
         font-family: FontAwesome;
@@ -1506,7 +1506,7 @@ h6 {
 }
 #footer {
     background: #fff !important;
-    border-top: 5px solid #009fe5;
+    border-top: 5px solid #993399;
     margin: 30px 0 0;
     padding: 0 !important;
 }
@@ -1588,14 +1588,14 @@ h6 {
     color: #3a3a3a;
     line-height: 20px;
     padding: 6px 0;
-    border-top: 1px solid #009fe5;
+    border-top: 1px solid #993399;
     margin-bottom: 0;
 }
 #footer .footer-foot p span {
     color: #c02424;
 }
 #footer .footer-foot p a {
-    color: #009fe5;
+    color: #993399;
 }
 #footer .footer-main h5 {
     color: #4e4e4e;
@@ -1618,7 +1618,7 @@ h6 {
 .forumpost .subject {
     font-weight: normal;
     font-size: 22px;
-    color: #009fe5;
+    color: #993399;
     line-height: 1.1818181818;
     margin-bottom: 3px;
 }
@@ -1657,7 +1657,7 @@ h6 {
     font-family: arvoreguler, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     display: inline-block;
     text-transform: uppercase;
@@ -1685,7 +1685,7 @@ h6 {
     font-family: arvoreguler, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 30px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 9px;
     display: inline-block;
     text-transform: uppercase;
@@ -1708,7 +1708,7 @@ h6 {
 }
 .menubar .dropdown .dropdown-menu a:hover {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .menubar .dropdown .dropdown-menu a:hover i {
     color: #fff;
@@ -1812,7 +1812,7 @@ h6 {
     padding: 0 3px;
 }
 .block.block_news_items .content a {
-    color: #009fe5;
+    color: #993399;
 }
 #page-login-index #header button.btn {
     display: none;
@@ -2281,8 +2281,8 @@ input[type="color"]:focus {
     border-color: #0073a5;
 }
 .btn-primary:hover {
-    background-color: #009fe5;
-    border-color: #009fe5;
+    background-color: #993399;
+    border-color: #993399;
 }
 .btn-primary:focus {
     box-shadow: none !important;
@@ -2301,7 +2301,7 @@ input[type="color"]:focus {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2347,7 +2347,7 @@ input[type="color"]:focus {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2379,7 +2379,7 @@ button {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2529,7 +2529,7 @@ input[type="button"] {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2551,7 +2551,7 @@ input[type="submit"] {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2573,7 +2573,7 @@ input[type="reset"] {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -2655,7 +2655,7 @@ table.flexible tbody > tr:nth-child(2n + 1) > th {
 }
 table.flexible thead th {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 table.flexible thead th img {
     background: #fff;
@@ -3225,7 +3225,7 @@ table.generalbox tbody tr td {
 }
 .generaltable thead th {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 .generaltable thead th img {
     background: #fff;
@@ -3283,7 +3283,7 @@ table.generalbox tbody tr td {
     height: auto;
 }
 .btn.btn-link i:before {
-    color: #009fe5;
+    color: #993399;
 }
 .btn.btn-secondary[role="button"] {
     color: #999;
@@ -3305,7 +3305,7 @@ table.generalbox tbody tr td {
 i.icon {
     margin-right: 0;
     font-size: 16px;
-    color: #009fe5;
+    color: #993399;
 }
 i.icon :before {
     font-size: 16px;
@@ -3358,7 +3358,7 @@ i.icon :before {
 .fp-coursebox .readmore a {
     color: #fff;
     line-height: 30px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 10px;
     display: inline-block;
 }
@@ -3514,7 +3514,7 @@ i.icon :before {
     border-radius: 0;
 }
 .moodle-actionmenu.show[data-enhanced] .menu a:hover {
-    background: #009fe5;
+    background: #993399;
     text-decoration: none;
 }
 .moodle-actionmenu.show[data-enhanced] .menu a:hover img.smallicon {
@@ -3572,7 +3572,7 @@ i.icon :before {
     top: 2px;
 }
 .block_navigation .block_tree .active_tree_node a {
-    color: #009fe5;
+    color: #993399;
 }
 .block_settings .block_tree .tree_item {
     margin: 15px 0;
@@ -3584,7 +3584,7 @@ i.icon :before {
     top: 2px;
 }
 .block_settings .block_tree .active_tree_node a {
-    color: #009fe5;
+    color: #993399;
 }
 .block_news_items .content ul li {
     padding: 7px 0;
@@ -3639,7 +3639,7 @@ input[type="checkbox"] + label {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -3661,7 +3661,7 @@ input[type="checkbox"] + label {
     font-family: arvoregular, Arial, Helvetica, sans-serif;
     color: #fff;
     line-height: 40px;
-    background: #009fe5;
+    background: #993399;
     padding: 0 18px;
     border: 0;
     border-radius: 0;
@@ -3767,7 +3767,7 @@ div.backup-section + form {
 }
 .path-mod-forum .forumheaderlist thead .header {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
     line-height: 20px;
     padding: 8px;
 }
@@ -3902,7 +3902,7 @@ form#movecourses table tbody > tr:nth-child(2n + 1) > th {
     width: 100%;
 }
 .userenrolment th {
-    background: #009fe5;
+    background: #993399;
 }
 .path-grade-report-user #graded_users_selector {
     float: none;
@@ -3986,7 +3986,7 @@ select.form-control:not([size]):not([multiple]) {
     object-fit: cover;
 }
 #site-news-forum .forum-post-container .forumpost .body-content-container .content-alignment-container .post-actions a.btn {
-    color: #009fe5;
+    color: #993399;
 }
 #site-news-forum .forum-post-container .forumpost .body-content-container .content-alignment-container .post-actions a.btn:hover {
     color: #c02424;
@@ -4023,7 +4023,7 @@ select.form-control:not([size]):not([multiple]) {
     outline: none;
 }
 .card-body .block-controls .dropdown .dropdown-menu a:hover {
-    background: #009fe5;
+    background: #993399;
 }
 .card-body .block-controls .dropdown .dropdown-toggle i {
     margin: 0;
@@ -4037,7 +4037,7 @@ select.form-control:not([size]):not([multiple]) {
     line-height: 20px;
 }
 #categoryquestions .header a {
-    color: #009fe5;
+    color: #993399;
 }
 .submissionlinks a.btn {
     height: 40px;
@@ -4058,7 +4058,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 #region-main-settings-menu .action-menu .menubar .dropdown .dropdown-menu .dropdown-item span:hover {
     color: #fff;
-    background: #009fe5;
+    background: #993399;
 }
 #region-main-settings-menu .action-menu .menubar .dropdown .dropdown-menu .dropdown-item span:hover i {
     color: #fff;
@@ -4176,7 +4176,7 @@ div.editor_atto_toolbar button {
     float: none;
 }
 .block_myoverview .content-centred .nav.nav-pills .nav-item .nav-link.active {
-    background: #009fe5;
+    background: #993399;
 }
 .block_myoverview .content-centred .nav.nav-pills .nav-item .nav-link.active:hover {
     color: #fff;
@@ -4221,19 +4221,19 @@ div.editor_atto_toolbar button {
     margin-right: 0;
 }
 .list-group-item.active {
-    border-color: #009fe5;
-    background-color: #009fe5;
+    border-color: #993399;
+    background-color: #993399;
 }
 .userlist .initialbar .pagination .page-item.active .page-link {
     color: #fff;
-    background-color: #009fe5;
-    border-color: #009fe5;
+    background-color: #993399;
+    border-color: #993399;
 }
 .userlist .initialbar .pagination .page-item.active .page-link:hover {
     color: #fff;
 }
 .userlist .initialbar .pagination .page-item .page-link {
-    color: #009fe5;
+    color: #993399;
 }
 .moodle-dialogue-base button.closebutton:active,
 button.closebutton:active {
@@ -4404,10 +4404,10 @@ button.close:focus,
     padding-right: 10px !important;
 }
 .header-main .message-app .header-container .badge {
-    background-color: #009fe5 !important;
+    background-color: #993399 !important;
 }
 .header-main .message-app .body-container .view-overview-body .section .badge {
-    background-color: #009fe5 !important;
+    background-color: #993399 !important;
 }
 .header-main .message-app .body-container .view-overview-body .section .btn:focus,
 .header-main .message-app .body-container .view-overview-body .section .btn:focus:hover {
@@ -4417,17 +4417,17 @@ button.close:focus,
     background: #0073a5;
 }
 .header-main .message-app .body-container .custom-control.custom-radio .custom-control-input:checked ~ .custom-control-label:before {
-    background-color: #009fe5;
+    background-color: #993399;
 }
 .header-main .message-app .body-container .custom-control.custom-radio .custom-control-input:active ~ .custom-control-label:before {
     background-color: rgba(0, 115, 165, .25);
 }
 .header-main .message-app .body-container .custom-control.custom-radio .custom-control-input:checked:focus ~ .custom-control-label:before {
-    background-color: #009fe5;
+    background-color: #993399;
     box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(0, 115, 165, .25);
 }
 .header-main .message-app .body-container .switch input:checked + label:before {
-    background-color: #009fe5;
+    background-color: #993399;
 }
 .header-main .message-app .body-container .switch input:focus + label:before {
     box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(0, 115, 165, .25);
@@ -4461,7 +4461,7 @@ button.close:focus,
     border-radius: 5px;
 }
 #region-main.has-blocks .block-myoverview .progress .progress-bar {
-    background-color: #009fe5;
+    background-color: #993399;
 }
 .notification-area .control-area .content .content-item-container.selected {
     background-color: #0073a5;
@@ -4476,10 +4476,10 @@ button.close:focus,
     margin-top: 0;
 }
 .block_recentlyaccessedcourses .paging-bar-container .pagination .page-item .page-link {
-    color: #009fe5;
+    color: #993399;
 }
 table.table-striped thead th a {
-    color: #009fe5;
+    color: #993399;
 }
 
 /* Moodle-3.8*/
