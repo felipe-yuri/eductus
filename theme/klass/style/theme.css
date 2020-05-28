@@ -3522,8 +3522,8 @@ i.icon :before {
 }
 .carousel-inner .carousel-item {
     background-repeat: no-repeat;
-    background-position: right center;
-    background-size: cover;
+    background-position: center;
+    background-size: 100% 500px;
 }
 .carousel-overlay-content .content-wrap {
     text-align: center;
